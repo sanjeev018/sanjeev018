@@ -1,9 +1,9 @@
 <h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
- Hey , I'm <a href="https://rishabh.me/">Rishabh</a>
+ Hey , I'm <a href="https://rishabh.me/">Sanjeev</a>
 </h2>
 
-<p>I'm currently a software engineer at <strong><a href="https://www.codiotic.com/">Codiotic</a></strong> and was formerly a <strong>Full Stack Engineer</strong> based in <img height="18px" width="25px" src='./images/flag-icon.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Full Stack Engineer.</p>
+<p><img height="18px" width="25px" src='./images/Flag_of_India.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Front end Engineer.</p>
 
 <h3>Things I code with -</h3>
   <p>
@@ -77,11 +77,11 @@
         <strong>Javascript</strong>.
       </li>
       <li>🚀 My ultimate ambition is to transition into the role of a <strong>Machine Learning </strong> engineer.</li>
-      <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Rishabh157">GitHub</a>. I embarked on
+      <li>👨‍💻 Most of my projects are available on <a href="https://github.com/sanjeev018">GitHub</a>. I embarked on
         my coding journey here.</li>
       <li>💬 Ping me about <strong>React </strong> and <strong>Machine learning </strong> stuff.</li>
       </li>
-      <li>📙 Check out my <a download href="https://github.com/Rishabh157/Rishabh157/blob/main/assets/resume.pdf">resume</a>.</li>
+      <li>📙 Check out my <a download href="https://docs.google.com/document/d/1jYtR-wsrhe95H8PVDg-1ig-9Yfsv0tCdOCSWDI9CO1w/edit">resume</a>.</li>
       <li>🎉 Fun Fact: Ich kann auch Deutsch sprechen.</li>
     </ul>
   </ul>
@@ -97,25 +97,26 @@
     </p>
     
   <p align="center">
-    <a href="https://www.linkedin.com/in/rishabh-gour-3b0861221/" target="_blank">
+    <a href="https://www.linkedin.com/in/sanjeev-gour-5a80502b3/" target="_blank">
       <img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://x.com/Rishabhgour157" target="_blank">
+    <a href="https://x.com/SanjeevGour718" target="_blank">
       <img alt="Twitter"
         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://github.com/Rishabh157" target="_blank">
+    <a href="https://github.com/sanjeev018" target="_blank">
       <img alt="Github"
         src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
-    <a href="mailto:rishabhgour157@gmail.com" target="_blank">
+    <a href="mailto:sanjeevgour729@gmail.com" target="_blank">
       <img alt="DevTo Badge"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/rishabh._.30/" target="_blank">
+    <a href="https://www.instagram.com/sanjeev.gour_23/" target="_blank">
       <img alt="Instagram"
         src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
   </p>
+
 
