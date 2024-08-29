@@ -1,6 +1,6 @@
 <h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
- Hey , I'm <a href="https://rishabh.me/">Sanjeev</a>
+ Hey , I'm <a href="https://sanjeev.me/">Sanjeev</a>
 </h2>
 
 <p>From <img height="18px" width="25px" src='./Flag_of_India.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Front end Engineer.</p>
@@ -61,7 +61,7 @@
         my coding journey here.</li>
       <li>💬 Ping me about <strong> React </strong>and<strong> Machine learning </strong> stuff.</li>
       </li>
-      <li>📙 Check out my <a download href="https://docs.google.com/document/d/1jYtR-wsrhe95H8PVDg-1ig-9Yfsv0tCdOCSWDI9CO1w/edit">resume</a>.</li>
+      <li>📙 Check out my <a download href="https://docs.google.com/document/d/1CduJyzAmXA9AJtRbqRMCjdd-p2qMTdHHtvkmDzqYaeA/edit">resume</a>.</li>
       <li>🎉 Fun Fact: I wanted to become cricketer.</li>
     </ul>
   </ul>
