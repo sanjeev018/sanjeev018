@@ -3,7 +3,7 @@
  Hey , I'm <a href="https://rishabh.me/">Sanjeev</a>
 </h2>
 
-<p>From <img height="18px" width="25px" src='./images/Flag_of_India.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Front end Engineer.</p>
+<p>From <img height="18px" width="25px" src='./Flag_of_India.png' alt='india-flag'> India. I am working on some side projects, learning a few new dishes, and striving to conquer the tech world as a Front end Engineer.</p>
 
 <h3>Things I code with -</h3>
   <p>
