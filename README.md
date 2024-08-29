@@ -61,7 +61,7 @@
         my coding journey here.</li>
       <li>💬 Ping me about <strong> React </strong>and<strong> Machine learning </strong> stuff.</li>
       </li>
-      <li>📙 Check out my <a download href="https://docs.google.com/document/d/1CduJyzAmXA9AJtRbqRMCjdd-p2qMTdHHtvkmDzqYaeA/edit">resume</a>.</li>
+      <li>📙 Check out my <a download href="./Sanjeev(resume).pdf">resume</a>.</li>
       <li>🎉 Fun Fact: I wanted to become cricketer.</li>
     </ul>
   </ul>
